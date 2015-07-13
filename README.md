@@ -1,17 +1,18 @@
-Whitman
+whitman
+=======
 
-What is it?
+what is it?
 -----------
-Whitman is a single-page app that provides the user with a Walt Whitman poem and an inspiring, relavent view.
+whitman is a single-page app that provides the user with a Walt Whitman poem and an inspiring, relavent view.
 
-Latest Version
+latest version
 --------------
-This first iteration allows for a random Whitman poem upon button click.
+this first iteration allows for a random whitman poem upon button click.
 
-Git Access
+git access
 ----------
- o This application can be found on Github: <https://github.com/fmaredia/whitman.git>
+ o this application can be found on github: <https://github.com/fmaredia/whitman.git>
 
-API
+api
 ---
- o Whitman utilizes the Walt Whitman Poems API, which can be found on Mashape at the following link: <https://www.mashape.com/pafmon/walt-whitman-poems>
+ o whitman utilizes the walt whitman poems api, which can be found on mashape at the following link: <https://www.mashape.com/pafmon/walt-whitman-poems>
