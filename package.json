@@ -1,0 +1,14 @@
+{
+  "name": "whitman",
+  "version": "1.0.0",
+  "description": "poetry and a view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhana Maredia",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.2"
+  },
+}
