@@ -5,6 +5,7 @@
 }
 
 body {
+  background-image: url("mountain.jpg");
   background-size: 100%;
   color: white;
 }
@@ -13,8 +14,15 @@ pre {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+.header {
+  color: white;
+  position: absolute;
+  top:2%;
+  left:25%;
+}
+
 .poem {
-  background-color: rgba(0,0,0,.3);
+  background-color: rgba(0,0,0,.2);
   padding: 2%;
   position: absolute;
   top:10%;
