@@ -4,6 +4,26 @@
           box-sizing: border-box;
 }
 
+body {
+  background-image: url("nature.jpg");
+  background-size: 100%;
+  color: white;
+}
+
 pre {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.poem {
+  background-color: rgba(0,0,0,.5);
+  padding: 2%;
+  position: absolute;
+  top:10%;
+  left:30%;
+  min-width: auto;
+  max-width: 60%;
+  min-height: auto;
+  max-height: 60%;
+  overflow: auto;
+  overflow-x: auto;
 }
