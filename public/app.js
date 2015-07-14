@@ -39,6 +39,15 @@ app.controller('poemController', function($scope, $http) {
       });
   }
 
+  // $scope.getImage = function() {
+  //   var arr = ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"]
+  //   var index = Math.floor(Math.random() * arr.length)
+  //   var str = 'url(' + arr[index] + ')'
+
+  //   return str
+    
+  // }
+
   // initial load
   $scope.load()
 })
